@@ -24,7 +24,7 @@ double IterarPi(){
 int main(){
 
     double pi = IterarPi();
-    cout.precision(7); // Precision de 6 valores depspues de la coma
+    cout.precision(7); // Precision de 6 valores despues de la coma
     cout << "El valor aproximado de pi es: " << pi << endl;
 
     return 0;
