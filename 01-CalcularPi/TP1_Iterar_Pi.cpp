@@ -6,7 +6,6 @@ double IterarPi(){
     double pi = 0.0;
     int denominador = 1; // variable impar auxiliar
     int signo = 1; // variable para alternar signo sin calcular potencia
-    int lim_iter = 100000000; // limitar_iteraciones
     int iteraciones = 0;
 
     do
